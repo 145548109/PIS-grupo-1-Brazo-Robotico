@@ -6,6 +6,7 @@ GRUPO 1.
 -Juan Veintimilla
 -Ariel Tandazo
 -Freddy Matailo
+-Joel Tapia
 
 Avance 1 - POO. 
 
