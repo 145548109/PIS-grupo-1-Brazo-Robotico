@@ -33,4 +33,6 @@ Aplicando los conocimientos adquiridos por cada uno de los miembros del grupo ll
 Realizamos el estudio de cada una de las partes que integran el brazo.
 Diseñamos en UML un diagrama de clases, en donde identificamos correctamente clases, atributos y métodos.
 Relacionamos adecuadamente y según como corresponde cada clase.
+<img src= "https://raw.githubusercontent.com/145548109/PIS-grupo-1-Brazo-Robotico/main/diagramaUML/brazoRobotico2.jpg"></sumary>
 <img src= "https://raw.githubusercontent.com/145548109/PIS-grupo-1-Brazo-Robotico/main/diagramaUML/balanza.jpg"></sumary>
+
