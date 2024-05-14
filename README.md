@@ -4,12 +4,13 @@
 
 **Proyecto Integrador de saberes**
 <div align="left">
+ 
 **GRUPO 1**
--Marco Castillo
--Juan Veintimilla
--Ariel Tandazo
--Freddy Matailo
--Joel Tapia
+<summary>Marco Castillo
+<summary>Juan Veintimilla
+<summary>Ariel Tandazo
+<summary>Freddy Matailo
+<summary>Joel Tapia
 
 **Avance 1 - POO**
 
