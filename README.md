@@ -5,7 +5,8 @@
 **Proyecto Integrador de saberes**
 <div align="left">
  
-**GRUPO 1**
+**GRUPO 1** <img src="https://assets-global.website-files.com/624ac40503a527cf47af4192/65313084ff0fb3453089947e_giphy.gif" width="40px"></summary>
+
 <summary>Marco Castillo
 <summary>Juan Veintimilla
 <summary>Ariel Tandazo
