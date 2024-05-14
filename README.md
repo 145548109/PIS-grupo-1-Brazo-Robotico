@@ -2,7 +2,7 @@
 <div align="center">
 <p><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9veWxlemxwZ2RqaHZ3ZGF5c2htcHUwNXdwdXpucjMzZzB1MHNoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.gif" alt="GIF" width="400" height="230"></p><p><a 
 
-Proyecto Integrador de saberes.
+**Proyecto Integrador de saberes**
 <div align="left">
 GRUPO 1.
 -Marco Castillo
