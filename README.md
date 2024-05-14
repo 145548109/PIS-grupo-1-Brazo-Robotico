@@ -12,6 +12,7 @@
 <summary>Freddy Matailo
 <summary>Joel Tapia
 
+
 **Avance 1 - POO**
 
 En este avance nos centraremos en diagramas UML, que nos serviran de guia para llegar al objetivo final que es controlar un brazo robotico, a traves de Bluetooth.
