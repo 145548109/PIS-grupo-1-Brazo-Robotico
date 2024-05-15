@@ -12,10 +12,10 @@ GRUPO 1
 <summary>Juan Veintimilla 😎
 <summary>Ariel Tandazo 🥵
 <summary>Freddy Matailo 👺
-<summary>Joel Tapia 🤓
+<summary>Joel Tapia 🤓<br>
 </details>
 
-Avance 1 - POO
+Avance 1 - POO<br>
 En este avance nos centraremos en diagramas UML, que nos serviran de guia para llegar al objetivo final que es controlar un brazo robotico, a traves de Bluetooth.
 
 <details><summary>OBJETIVO GENERAL:</summary>
