@@ -18,8 +18,9 @@ GRUPO 1
 <div align="left">
 </details>
 
-- [ ] Avance 1 - POO
-> En este avance nos centraremos en diagramas UML, que nos serviran de guia para llegar al objetivo final que es controlar un brazo robotico, a traves de Bluetooth.
+ 
+Avance 1 - POO
+En este avance nos centraremos en diagramas UML, que nos serviran de guia para llegar al objetivo final que es controlar un brazo robotico, a traves de Bluetooth.
 
 <details><summary>OBJETIVO GENERAL:</summary>
 <summary>Diseñar y emplear un diagrama de clases basado en UML, que nos permita abstraer clases, atributos y métodos, con la finalidad de tener un mejor panorama de lo que vamos a realizar. 
