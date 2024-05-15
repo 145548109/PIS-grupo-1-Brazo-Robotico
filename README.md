@@ -9,7 +9,7 @@
 
 <summary>Marco Castillo
 <summary>Juan Veintimilla
-<summary>Ariel Tandazo :+90:
+<summary>Ariel Tandazo :🥵:
 <summary>Freddy Matailo
 <summary>Joel Tapia
 <div align="left">
