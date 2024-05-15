@@ -4,8 +4,8 @@
 
 **Proyecto Integrador de saberes**
 <div align="left">
- 
-#**GRUPO 1** 
+ </details>
+**GRUPO 1** 
 <img src="https://assets-global.website-files.com/624ac40503a527cf47af4192/65313084ff0fb3453089947e_giphy.gif" width="40px"></summary> 
 
 <summary>Marco Castillo 👻
@@ -16,7 +16,7 @@
 </details>
  
 <div align="left">
-
+</details>
 #Avance 1 - POO
  
 En este avance nos centraremos en diagramas UML, que nos serviran de guia para llegar al objetivo final que es controlar un brazo robotico, a traves de Bluetooth.
